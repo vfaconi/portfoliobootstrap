@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body {
+    background-color: #d3d3d3;
+}
+
+header {
+    background: url("./img/banner.jpg") no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+}
+
+a {
+    text-decoration: none;
+}
+    
+a:hover {
+    text-decoration: none;
+    font-weight: bold;
+}
+    
+section i {
+    font-size: 4.5rem;
+}
+
+.imagem {
+    background: url("./img/cel.jpg") no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+}
+
+footer i {
+    font-size: 2rem;
+}
